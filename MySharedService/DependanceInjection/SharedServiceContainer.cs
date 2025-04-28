@@ -47,7 +47,7 @@ namespace ecommerce.shared.DependanceInjection
 			app.UseMiddleware<GlobalExeptionMiddleware>();
 
 			//register middleware to block outside APIs calls 
-			//app.UseMiddleware<listenToApiMiddleWare>();
+			app.UseMiddleware<listenToApiMiddleWare>();
 
 			return app;
 		}

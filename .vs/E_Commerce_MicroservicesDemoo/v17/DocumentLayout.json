@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6866EBC5-E903-4E8A-8363-000002A12712}|MySharedService\\MySharedService.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\mysharedservice\\dependanceinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6866EBC5-E903-4E8A-8363-000002A12712}|MySharedService\\MySharedService.csproj|solutionrelative:mysharedservice\\dependanceinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6866EBC5-E903-4E8A-8363-000002A12712}|MySharedService\\MySharedService.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\mysharedservice\\middleware\\globalexeptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6866EBC5-E903-4E8A-8363-000002A12712}|MySharedService\\MySharedService.csproj|solutionrelative:mysharedservice\\middleware\\globalexeptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6866EBC5-E903-4E8A-8363-000002A12712}|MySharedService\\MySharedService.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\mysharedservice\\middleware\\listentoapimiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6866EBC5-E903-4E8A-8363-000002A12712}|MySharedService\\MySharedService.csproj|solutionrelative:mysharedservice\\middleware\\listentoapimiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|solutionrelative:authoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|solutionrelative:authoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6866EBC5-E903-4E8A-8363-000002A12712}|MySharedService\\MySharedService.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\mysharedservice\\dependanceinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6866EBC5-E903-4E8A-8363-000002A12712}|MySharedService\\MySharedService.csproj|solutionrelative:mysharedservice\\dependanceinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -106,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,7 +130,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "GlobalExeptionMiddleware.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\MySharedService\\Middleware\\GlobalExeptionMiddleware.cs",
+              "RelativeDocumentMoniker": "MySharedService\\Middleware\\GlobalExeptionMiddleware.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\MySharedService\\Middleware\\GlobalExeptionMiddleware.cs",
+              "RelativeToolTip": "MySharedService\\Middleware\\GlobalExeptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:51:14.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListenToApiMiddleWare.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\MySharedService\\Middleware\\ListenToApiMiddleWare.cs",
+              "RelativeDocumentMoniker": "MySharedService\\Middleware\\ListenToApiMiddleWare.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\MySharedService\\Middleware\\ListenToApiMiddleWare.cs",
+              "RelativeToolTip": "MySharedService\\Middleware\\ListenToApiMiddleWare.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:51:06.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoDomain\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "AuthoDomain\\Entities\\AppUser.cs",
@@ -134,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\OTPService\\Interface\\IEmailService.cs",
               "RelativeDocumentMoniker": "AuthoAPI\\OTPService\\Interface\\IEmailService.cs",
@@ -146,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "AuthoAPI\\Controllers\\AuthenticationController.cs",
@@ -158,19 +192,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "SharedServiceContainer.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\MySharedService\\DependanceInjection\\SharedServiceContainer.cs",
               "RelativeDocumentMoniker": "MySharedService\\DependanceInjection\\SharedServiceContainer.cs",
               "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\MySharedService\\DependanceInjection\\SharedServiceContainer.cs",
               "RelativeToolTip": "MySharedService\\DependanceInjection\\SharedServiceContainer.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAASwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T11:36:00.072Z"
+              "WhenOpened": "2025-04-28T11:36:00.072Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EmailService.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\OTPService\\EmailService.cs",
               "RelativeDocumentMoniker": "AuthoAPI\\OTPService\\EmailService.cs",
@@ -182,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "OtpService.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\OTPService\\OtpService.cs",
               "RelativeDocumentMoniker": "AuthoAPI\\OTPService\\OtpService.cs",
@@ -194,20 +229,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\appsettings.json",
               "RelativeDocumentMoniker": "AuthoAPI\\appsettings.json",
               "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\appsettings.json",
               "RelativeToolTip": "AuthoAPI\\appsettings.json",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-28T09:42:09.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AuthoAPI\\Properties\\launchSettings.json",
@@ -219,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\Program.cs",
               "RelativeDocumentMoniker": "AuthoAPI\\Program.cs",
@@ -231,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\GatewayAPI\\Program.cs",
               "RelativeDocumentMoniker": "GatewayAPI\\Program.cs",
@@ -243,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "OtpRequest.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoApplication\\DTOs\\OtpRequest.cs",
               "RelativeDocumentMoniker": "AuthoApplication\\DTOs\\OtpRequest.cs",
@@ -255,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoInfrastructure\\DependanceInjection\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "AuthoInfrastructure\\DependanceInjection\\ServiceContainer.cs",
@@ -267,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "JWTAuthenticationSchema.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\MySharedService\\DependanceInjection\\JWTAuthenticationSchema.cs",
               "RelativeDocumentMoniker": "MySharedService\\DependanceInjection\\JWTAuthenticationSchema.cs",
@@ -279,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "AppUseerDto.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoApplication\\DTOs\\AppUseerDto.cs",
               "RelativeDocumentMoniker": "AuthoApplication\\DTOs\\AppUseerDto.cs",
@@ -291,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Ocelot.json",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\GatewayAPI\\Ocelot.json",
               "RelativeDocumentMoniker": "GatewayAPI\\Ocelot.json",
@@ -303,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\OrderAPI\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "OrderAPI\\Controllers\\OrderController.cs",
@@ -315,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\ProductAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ProductAPI\\Controllers\\ProductController.cs",
@@ -327,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "UserReposatory.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoInfrastructure\\Reposatories\\UserReposatory.cs",
               "RelativeDocumentMoniker": "AuthoInfrastructure\\Reposatories\\UserReposatory.cs",
@@ -339,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\GatewayAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "GatewayAPI\\Properties\\launchSettings.json",
@@ -351,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\OrderAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "OrderAPI\\Properties\\launchSettings.json",
@@ -363,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\OrderAPI\\Program.cs",
               "RelativeDocumentMoniker": "OrderAPI\\Program.cs",
@@ -375,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\OrderAPI\\appsettings.json",
               "RelativeDocumentMoniker": "OrderAPI\\appsettings.json",
@@ -387,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\ProductAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ProductAPI\\Properties\\launchSettings.json",
@@ -399,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\ProductAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ProductAPI\\appsettings.json",
