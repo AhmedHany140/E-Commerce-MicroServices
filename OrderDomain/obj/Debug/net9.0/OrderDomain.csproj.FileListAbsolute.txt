@@ -1,0 +1,11 @@
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\bin\Debug\net9.0\OrderDomain.deps.json
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\bin\Debug\net9.0\OrderDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\bin\Debug\net9.0\OrderDomain.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\OrderDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\OrderDomain.AssemblyInfoInputs.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\OrderDomain.AssemblyInfo.cs
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\OrderDomain.csproj.CoreCompileInputs.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\OrderDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\refint\OrderDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\OrderDomain.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\ref\OrderDomain.dll

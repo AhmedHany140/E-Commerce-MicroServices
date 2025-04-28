@@ -1,0 +1,12 @@
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\bin\Debug\net9.0\ProductDomain.deps.json
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\bin\Debug\net9.0\ProductDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\bin\Debug\net9.0\ProductDomain.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\ProductDomain.csproj.AssemblyReference.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\ProductDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\ProductDomain.AssemblyInfoInputs.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\ProductDomain.AssemblyInfo.cs
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\ProductDomain.csproj.CoreCompileInputs.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\ProductDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\refint\ProductDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\ProductDomain.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\ref\ProductDomain.dll

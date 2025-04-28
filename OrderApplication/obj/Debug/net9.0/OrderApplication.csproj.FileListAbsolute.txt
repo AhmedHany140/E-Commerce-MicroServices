@@ -1,0 +1,17 @@
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\OrderApplication.csproj.AssemblyReference.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\OrderApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\OrderApplication.AssemblyInfoInputs.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\OrderApplication.AssemblyInfo.cs
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\OrderApplication.csproj.CoreCompileInputs.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\bin\Debug\net9.0\OrderApplication.deps.json
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\bin\Debug\net9.0\OrderApplication.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\bin\Debug\net9.0\OrderApplication.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\bin\Debug\net9.0\MySharedService.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\bin\Debug\net9.0\OrderDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\bin\Debug\net9.0\MySharedService.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\bin\Debug\net9.0\OrderDomain.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\OrderApp.098B6CAE.Up2Date
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\OrderApplication.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\refint\OrderApplication.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\OrderApplication.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\ref\OrderApplication.dll

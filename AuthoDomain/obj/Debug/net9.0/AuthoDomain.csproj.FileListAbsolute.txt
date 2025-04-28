@@ -1,0 +1,12 @@
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\bin\Debug\net9.0\AuthoDomain.deps.json
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\bin\Debug\net9.0\AuthoDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\bin\Debug\net9.0\AuthoDomain.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\AuthoDomain.csproj.AssemblyReference.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\AuthoDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\AuthoDomain.AssemblyInfoInputs.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\AuthoDomain.AssemblyInfo.cs
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\AuthoDomain.csproj.CoreCompileInputs.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\AuthoDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\refint\AuthoDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\AuthoDomain.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\ref\AuthoDomain.dll

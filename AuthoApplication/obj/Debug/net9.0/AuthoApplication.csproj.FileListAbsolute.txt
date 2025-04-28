@@ -1,0 +1,17 @@
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\bin\Debug\net9.0\AuthoApplication.deps.json
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\bin\Debug\net9.0\AuthoApplication.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\bin\Debug\net9.0\AuthoApplication.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\bin\Debug\net9.0\AuthoDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\bin\Debug\net9.0\AuthoDomain.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\AuthoApplication.csproj.AssemblyReference.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\AuthoApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\AuthoApplication.AssemblyInfoInputs.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\AuthoApplication.AssemblyInfo.cs
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\AuthoApplication.csproj.CoreCompileInputs.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\AuthoApp.E9308FBC.Up2Date
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\AuthoApplication.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\refint\AuthoApplication.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\AuthoApplication.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\ref\AuthoApplication.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\bin\Debug\net9.0\MySharedService.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\bin\Debug\net9.0\MySharedService.pdb

@@ -1,0 +1,14 @@
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\MySharedService.csproj.AssemblyReference.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\MySharedService.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\MySharedService.AssemblyInfoInputs.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\MySharedService.AssemblyInfo.cs
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\MySharedService.csproj.CoreCompileInputs.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\bin\Debug\net9.0\MySharedService.deps.json
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\bin\Debug\net9.0\MySharedService.runtimeconfig.json
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\bin\Debug\net9.0\MySharedService.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\bin\Debug\net9.0\MySharedService.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\MySharedService.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\refint\MySharedService.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\MySharedService.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\MySharedService.genruntimeconfig.cache
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\ref\MySharedService.dll

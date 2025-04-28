@@ -1,0 +1,6 @@
+@AuthoAPI_HostAddress = http://localhost:5232
+
+GET {{AuthoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
