@@ -17,3 +17,4 @@ D:\my projects\E_Commerce_MicroservicesDemoo\AuthoInfrastructure\obj\Debug\net9.
 D:\my projects\E_Commerce_MicroservicesDemoo\AuthoInfrastructure\obj\Debug\net9.0\ref\AuthoInfrastructure.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\AuthoInfrastructure\bin\Debug\net9.0\MySharedService.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\AuthoInfrastructure\bin\Debug\net9.0\MySharedService.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoInfrastructure\obj\Debug\net9.0\AuthoInfrastructure.sourcelink.json

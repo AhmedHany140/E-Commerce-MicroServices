@@ -17,3 +17,4 @@ D:\my projects\E_Commerce_MicroservicesDemoo\ProductInfrastructure\obj\Debug\net
 D:\my projects\E_Commerce_MicroservicesDemoo\ProductInfrastructure\obj\Debug\net9.0\ref\ProductInfrastructure.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\ProductInfrastructure\bin\Debug\net9.0\MySharedService.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\ProductInfrastructure\bin\Debug\net9.0\MySharedService.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductInfrastructure\obj\Debug\net9.0\ProductInfrastructure.sourcelink.json

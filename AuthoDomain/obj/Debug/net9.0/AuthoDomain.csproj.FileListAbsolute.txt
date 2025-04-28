@@ -10,3 +10,4 @@ D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\AuthoD
 D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\refint\AuthoDomain.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\AuthoDomain.pdb
 D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\ref\AuthoDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoDomain\obj\Debug\net9.0\AuthoDomain.sourcelink.json

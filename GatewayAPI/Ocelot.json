@@ -65,7 +65,7 @@
       }
     },
 
-    // post & Pu & Delete Product
+    // post & Put & Delete Product
 
     {
       "DownstreamPathTemplate": "/api/Product/{everything}",

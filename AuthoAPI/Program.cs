@@ -1,4 +1,9 @@
+
+
 using ApplicationApi.Infrastructure.DependanceInjection;
+using AuthoAPI.OTPService;
+using AuthoAPI.OTPService.Interface;
+using AuthoInfrastructure.OTPService;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +18,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddInfrastructureService(builder.Configuration);
+
+builder.Services.AddScoped<OtpService>();
+builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
+builder.Services.AddTransient<IEmailService, EmailService>();
 
 var app = builder.Build();
 

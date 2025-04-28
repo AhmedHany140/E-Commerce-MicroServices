@@ -1,7 +1,104 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|solutionrelative:authoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoapi\\otpservice\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|solutionrelative:authoapi\\otpservice\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoapi\\otpservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|solutionrelative:authoapi\\otpservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoapi\\otpservice\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|solutionrelative:authoapi\\otpservice\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7E261F-6020-4944-99D5-1D6F171AC99E}|AuthoDomain\\AuthoDomain.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authodomain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7E261F-6020-4944-99D5-1D6F171AC99E}|AuthoDomain\\AuthoDomain.csproj|solutionrelative:authodomain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|solutionrelative:authoapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|solutionrelative:authoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6866EBC5-E903-4E8A-8363-000002A12712}|MySharedService\\MySharedService.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\mysharedservice\\dependanceinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6866EBC5-E903-4E8A-8363-000002A12712}|MySharedService\\MySharedService.csproj|solutionrelative:mysharedservice\\dependanceinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19CD2963-CCF3-4E96-9E93-18B07A672909}|AuthoAPI\\AuthoAPI.csproj|solutionrelative:authoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F61EC5-84C9-47B7-B06F-3D6ABE8D8045}|AuthoApplication\\AuthoApplication.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoapplication\\dtos\\otprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F61EC5-84C9-47B7-B06F-3D6ABE8D8045}|AuthoApplication\\AuthoApplication.csproj|solutionrelative:authoapplication\\dtos\\otprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E883B7E-DF47-4958-B29A-6FA5D5D3D497}|GatewayAPI\\GatewayAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\gatewayapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E883B7E-DF47-4958-B29A-6FA5D5D3D497}|GatewayAPI\\GatewayAPI.csproj|solutionrelative:gatewayapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6866EBC5-E903-4E8A-8363-000002A12712}|MySharedService\\MySharedService.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\mysharedservice\\dependanceinjection\\jwtauthenticationschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6866EBC5-E903-4E8A-8363-000002A12712}|MySharedService\\MySharedService.csproj|solutionrelative:mysharedservice\\dependanceinjection\\jwtauthenticationschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3F7C4B-312E-4019-AB1B-02CB25187ED5}|AuthoInfrastructure\\AuthoInfrastructure.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoinfrastructure\\dependanceinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3F7C4B-312E-4019-AB1B-02CB25187ED5}|AuthoInfrastructure\\AuthoInfrastructure.csproj|solutionrelative:authoinfrastructure\\dependanceinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F61EC5-84C9-47B7-B06F-3D6ABE8D8045}|AuthoApplication\\AuthoApplication.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoapplication\\dtos\\appuseerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F61EC5-84C9-47B7-B06F-3D6ABE8D8045}|AuthoApplication\\AuthoApplication.csproj|solutionrelative:authoapplication\\dtos\\appuseerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15DB8C8-26F9-4C6C-824A-61FEB1B63FE3}|ProductAPI\\ProductAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15DB8C8-26F9-4C6C-824A-61FEB1B63FE3}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E883B7E-DF47-4958-B29A-6FA5D5D3D497}|GatewayAPI\\GatewayAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\gatewayapi\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E883B7E-DF47-4958-B29A-6FA5D5D3D497}|GatewayAPI\\GatewayAPI.csproj|solutionrelative:gatewayapi\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC43D12-FAF4-4D07-91E8-B2DC861539C0}|OrderAPI\\OrderAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC43D12-FAF4-4D07-91E8-B2DC861539C0}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3F7C4B-312E-4019-AB1B-02CB25187ED5}|AuthoInfrastructure\\AuthoInfrastructure.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\authoinfrastructure\\reposatories\\userreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3F7C4B-312E-4019-AB1B-02CB25187ED5}|AuthoInfrastructure\\AuthoInfrastructure.csproj|solutionrelative:authoinfrastructure\\reposatories\\userreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC43D12-FAF4-4D07-91E8-B2DC861539C0}|OrderAPI\\OrderAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC43D12-FAF4-4D07-91E8-B2DC861539C0}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E883B7E-DF47-4958-B29A-6FA5D5D3D497}|GatewayAPI\\GatewayAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\gatewayapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E883B7E-DF47-4958-B29A-6FA5D5D3D497}|GatewayAPI\\GatewayAPI.csproj|solutionrelative:gatewayapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC43D12-FAF4-4D07-91E8-B2DC861539C0}|OrderAPI\\OrderAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCC43D12-FAF4-4D07-91E8-B2DC861539C0}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC43D12-FAF4-4D07-91E8-B2DC861539C0}|OrderAPI\\OrderAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCC43D12-FAF4-4D07-91E8-B2DC861539C0}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15DB8C8-26F9-4C6C-824A-61FEB1B63FE3}|ProductAPI\\ProductAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F15DB8C8-26F9-4C6C-824A-61FEB1B63FE3}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15DB8C8-26F9-4C6C-824A-61FEB1B63FE3}|ProductAPI\\ProductAPI.csproj|d:\\my projects\\e_commerce_microservicesdemoo\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F15DB8C8-26F9-4C6C-824A-61FEB1B63FE3}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +119,295 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoDomain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthoDomain\\Entities\\AppUser.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoDomain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "AuthoDomain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:09:01.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\OTPService\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "AuthoAPI\\OTPService\\Interface\\IEmailService.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\OTPService\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "AuthoAPI\\OTPService\\Interface\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:55:59.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "AuthoAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "AuthoAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwD8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:29:58.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\MySharedService\\DependanceInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "MySharedService\\DependanceInjection\\SharedServiceContainer.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\MySharedService\\DependanceInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "MySharedService\\DependanceInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:36:00.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\OTPService\\EmailService.cs",
+              "RelativeDocumentMoniker": "AuthoAPI\\OTPService\\EmailService.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\OTPService\\EmailService.cs",
+              "RelativeToolTip": "AuthoAPI\\OTPService\\EmailService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:56:25.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\OTPService\\OtpService.cs",
+              "RelativeDocumentMoniker": "AuthoAPI\\OTPService\\OtpService.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\OTPService\\OtpService.cs",
+              "RelativeToolTip": "AuthoAPI\\OTPService\\OtpService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:18:54.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthoAPI\\appsettings.json",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\appsettings.json",
+              "RelativeToolTip": "AuthoAPI\\appsettings.json",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T09:42:09.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthoAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthoAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T09:29:44.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthoAPI\\Program.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoAPI\\Program.cs",
+              "RelativeToolTip": "AuthoAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:37:09.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\GatewayAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GatewayAPI\\Program.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\GatewayAPI\\Program.cs",
+              "RelativeToolTip": "GatewayAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:36:51.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OtpRequest.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoApplication\\DTOs\\OtpRequest.cs",
+              "RelativeDocumentMoniker": "AuthoApplication\\DTOs\\OtpRequest.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoApplication\\DTOs\\OtpRequest.cs",
+              "RelativeToolTip": "AuthoApplication\\DTOs\\OtpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:14:49.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoInfrastructure\\DependanceInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "AuthoInfrastructure\\DependanceInjection\\ServiceContainer.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoInfrastructure\\DependanceInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "AuthoInfrastructure\\DependanceInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:18:40.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JWTAuthenticationSchema.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\MySharedService\\DependanceInjection\\JWTAuthenticationSchema.cs",
+              "RelativeDocumentMoniker": "MySharedService\\DependanceInjection\\JWTAuthenticationSchema.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\MySharedService\\DependanceInjection\\JWTAuthenticationSchema.cs",
+              "RelativeToolTip": "MySharedService\\DependanceInjection\\JWTAuthenticationSchema.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:06:10.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUseerDto.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoApplication\\DTOs\\AppUseerDto.cs",
+              "RelativeDocumentMoniker": "AuthoApplication\\DTOs\\AppUseerDto.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoApplication\\DTOs\\AppUseerDto.cs",
+              "RelativeToolTip": "AuthoApplication\\DTOs\\AppUseerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:14:12.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\GatewayAPI\\Ocelot.json",
+              "RelativeDocumentMoniker": "GatewayAPI\\Ocelot.json",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\GatewayAPI\\Ocelot.json",
+              "RelativeToolTip": "GatewayAPI\\Ocelot.json",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T10:29:12.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\OrderAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\OrderAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:57:38.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:28:14.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserReposatory.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoInfrastructure\\Reposatories\\UserReposatory.cs",
+              "RelativeDocumentMoniker": "AuthoInfrastructure\\Reposatories\\UserReposatory.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\AuthoInfrastructure\\Reposatories\\UserReposatory.cs",
+              "RelativeToolTip": "AuthoInfrastructure\\Reposatories\\UserReposatory.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:06:38.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\GatewayAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GatewayAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\GatewayAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GatewayAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T09:31:34.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\OrderAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\OrderAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T09:29:09.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\OrderAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OrderAPI\\Program.cs",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\OrderAPI\\Program.cs",
+              "RelativeToolTip": "OrderAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:57:33.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\OrderAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderAPI\\appsettings.json",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\OrderAPI\\appsettings.json",
+              "RelativeToolTip": "OrderAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T09:29:00.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\ProductAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\ProductAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T09:27:29.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPI\\appsettings.json",
+              "ToolTip": "D:\\my projects\\E_Commerce_MicroservicesDemoo\\ProductAPI\\appsettings.json",
+              "RelativeToolTip": "ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T09:26:10.379Z"
             }
           ]
         }

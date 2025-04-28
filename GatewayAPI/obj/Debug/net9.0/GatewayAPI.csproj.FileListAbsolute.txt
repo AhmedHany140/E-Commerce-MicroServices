@@ -127,3 +127,4 @@ D:\my projects\E_Commerce_MicroservicesDemoo\GatewayAPI\obj\Debug\net9.0\refint\
 D:\my projects\E_Commerce_MicroservicesDemoo\GatewayAPI\obj\Debug\net9.0\GatewayAPI.pdb
 D:\my projects\E_Commerce_MicroservicesDemoo\GatewayAPI\obj\Debug\net9.0\GatewayAPI.genruntimeconfig.cache
 D:\my projects\E_Commerce_MicroservicesDemoo\GatewayAPI\obj\Debug\net9.0\ref\GatewayAPI.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\GatewayAPI\obj\Debug\net9.0\GatewayAPI.sourcelink.json

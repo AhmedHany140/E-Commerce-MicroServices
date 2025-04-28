@@ -7,6 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Ocelot.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Ocelot.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.3" />
 	  <PackageReference Include="Ocelot" Version="23.4.3" />
 	  <PackageReference Include="Ocelot.Cache.CacheManager" Version="23.4.3" />

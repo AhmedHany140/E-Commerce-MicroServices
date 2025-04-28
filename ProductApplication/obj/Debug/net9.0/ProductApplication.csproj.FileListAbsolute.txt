@@ -15,3 +15,4 @@ D:\my projects\E_Commerce_MicroservicesDemoo\ProductApplication\obj\Debug\net9.0
 D:\my projects\E_Commerce_MicroservicesDemoo\ProductApplication\obj\Debug\net9.0\ref\ProductApplication.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\ProductApplication\bin\Debug\net9.0\MySharedService.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\ProductApplication\bin\Debug\net9.0\MySharedService.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductApplication\obj\Debug\net9.0\ProductApplication.sourcelink.json

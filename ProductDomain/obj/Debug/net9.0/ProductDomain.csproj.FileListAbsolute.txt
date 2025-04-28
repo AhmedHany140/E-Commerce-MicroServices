@@ -10,3 +10,4 @@ D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\Prod
 D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\refint\ProductDomain.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\ProductDomain.pdb
 D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\ref\ProductDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\ProductDomain\obj\Debug\net9.0\ProductDomain.sourcelink.json

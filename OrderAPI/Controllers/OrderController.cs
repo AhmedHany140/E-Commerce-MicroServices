@@ -11,7 +11,7 @@ namespace OrderAPI.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]
-	//[Authorize]
+	[Authorize]
 	public class OrderController (IOrder orderrepo,IOrderService orderService): ControllerBase
 	{
 
@@ -42,7 +42,7 @@ namespace OrderAPI.Controllers
 		}
 
 		[HttpPost]
-		public async Task<ActionResult<Response>> CreatePOrder(OrderDto orderDto)
+		public async Task<ActionResult<Response>> CreateOrder(OrderDto orderDto)
 		{
 			if (!ModelState.IsValid)
 				return BadRequest("incomplement data ");
@@ -80,7 +80,7 @@ namespace OrderAPI.Controllers
 
 			var response = await orderrepo.DeleteeAsync(order);
 
-			return response.flag is true ? Ok(response) : BadRequest("Can't delete Order");
+			return response.flag  ? Ok(response) : BadRequest("Can't delete Order");
 		}
 
 		[HttpGet("client/{ClientId:int}")]

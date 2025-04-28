@@ -15,3 +15,4 @@ D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\O
 D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\refint\OrderApplication.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\OrderApplication.pdb
 D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\ref\OrderApplication.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderApplication\obj\Debug\net9.0\OrderApplication.sourcelink.json

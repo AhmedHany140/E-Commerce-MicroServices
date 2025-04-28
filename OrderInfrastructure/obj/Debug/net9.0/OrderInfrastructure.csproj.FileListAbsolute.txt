@@ -17,3 +17,4 @@ D:\my projects\E_Commerce_MicroservicesDemoo\OrderInfrastructure\obj\Debug\net9.
 D:\my projects\E_Commerce_MicroservicesDemoo\OrderInfrastructure\obj\Debug\net9.0\refint\OrderInfrastructure.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\OrderInfrastructure\obj\Debug\net9.0\OrderInfrastructure.pdb
 D:\my projects\E_Commerce_MicroservicesDemoo\OrderInfrastructure\obj\Debug\net9.0\ref\OrderInfrastructure.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderInfrastructure\obj\Debug\net9.0\OrderInfrastructure.sourcelink.json

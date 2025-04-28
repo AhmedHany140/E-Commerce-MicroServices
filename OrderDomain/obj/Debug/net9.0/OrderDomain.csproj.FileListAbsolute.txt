@@ -9,3 +9,4 @@ D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\OrderD
 D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\refint\OrderDomain.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\OrderDomain.pdb
 D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\ref\OrderDomain.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\OrderDomain\obj\Debug\net9.0\OrderDomain.sourcelink.json

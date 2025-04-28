@@ -15,3 +15,4 @@ D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\A
 D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\ref\AuthoApplication.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\bin\Debug\net9.0\MySharedService.dll
 D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\bin\Debug\net9.0\MySharedService.pdb
+D:\my projects\E_Commerce_MicroservicesDemoo\AuthoApplication\obj\Debug\net9.0\AuthoApplication.sourcelink.json

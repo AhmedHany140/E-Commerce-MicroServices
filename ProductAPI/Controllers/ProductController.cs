@@ -11,10 +11,10 @@ namespace ProductAPI.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]
-	[AllowAnonymous] 
 	public class ProductController(IProduct productrepo) : ControllerBase
 	{
 		[HttpGet]
+		[AllowAnonymous]
 		public async Task<ActionResult<IEnumerable<ProductDto>>> GetAllProducts()
 		{
 			var products = await productrepo.GetAllAsync();
@@ -29,6 +29,7 @@ namespace ProductAPI.Controllers
 		}
 
 		[HttpGet("{id:int}")]
+		[AllowAnonymous]
 		public async Task<ActionResult<ProductDto>> GetProduct(int id)
 		{
 			var product = await productrepo.FindByIdeAsync(id);
@@ -51,7 +52,7 @@ namespace ProductAPI.Controllers
 			var product = ProductConvertion.ToEntity(productDto);
 			var response = await productrepo.CreateAsync(product);
 
-			return response.flag is true ? Ok(response) : BadRequest(response);
+			return response.flag ? Ok(response) : BadRequest(response);
 
 
 		}
@@ -66,7 +67,7 @@ namespace ProductAPI.Controllers
 			var product = ProductConvertion.ToEntity(productDto);
 			var response = await productrepo.UpdateAsync(product);
 
-			return response.flag is true ? Ok(response) : BadRequest(response);
+			return response.flag  ? Ok(response) : BadRequest(response);
 
 
 		}
@@ -81,7 +82,7 @@ namespace ProductAPI.Controllers
 			var product = ProductConvertion.ToEntity(productDto);
 			var response = await productrepo.DeleteeAsync(product);
 
-			return response.flag is true ? Ok(response) : BadRequest(response);
+			return response.flag  ? Ok(response) : BadRequest(response);
 
 
 		}

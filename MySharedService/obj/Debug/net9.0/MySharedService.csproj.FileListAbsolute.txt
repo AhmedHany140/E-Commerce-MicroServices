@@ -12,3 +12,4 @@ D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\re
 D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\MySharedService.pdb
 D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\MySharedService.genruntimeconfig.cache
 D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\ref\MySharedService.dll
+D:\my projects\E_Commerce_MicroservicesDemoo\MySharedService\obj\Debug\net9.0\MySharedService.sourcelink.json

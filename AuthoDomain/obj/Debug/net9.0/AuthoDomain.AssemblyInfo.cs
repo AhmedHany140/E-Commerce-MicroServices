@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthoDomain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b978a627a5bf42d1df49ab963dc8904b6eeaec55")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthoDomain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthoDomain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

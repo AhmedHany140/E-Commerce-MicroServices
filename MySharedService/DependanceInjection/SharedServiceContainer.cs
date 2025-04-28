@@ -22,8 +22,8 @@ namespace ecommerce.shared.DependanceInjection
 				options.UseSqlServer(configuration.GetConnectionString("eCommerceConnection"), sqlserveroptions =>
 				sqlserveroptions.EnableRetryOnFailure())
 			);
-;
 
+	
 			//cofiguration log
 
 			Log.Logger = new LoggerConfiguration()
@@ -47,7 +47,7 @@ namespace ecommerce.shared.DependanceInjection
 			app.UseMiddleware<GlobalExeptionMiddleware>();
 
 			//register middleware to block outside APIs calls 
-			app.UseMiddleware<listenToApiMiddleWare>();
+			//app.UseMiddleware<listenToApiMiddleWare>();
 
 			return app;
 		}
