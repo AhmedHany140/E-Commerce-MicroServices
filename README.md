@@ -55,12 +55,7 @@ Each service is designed with **Onion Architecture**, **Repository Pattern**, an
 
 ## 🖼️ Microservices Architecture Diagram
 
-Below is a simplified architecture diagram of how the microservices interact with each other through the API Gateway:
 
-![Microservices Architecture](https://your-image-url.com/microservices-diagram.png)
-
-> Each service is independent, follows Onion Architecture, and communicates via the API Gateway.
-> Services handle their own database and logic separately, allowing scalability and flexibility.
 
 ---
 
