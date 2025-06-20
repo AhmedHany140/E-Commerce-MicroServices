@@ -53,12 +53,18 @@ Each service is designed with **Onion Architecture**, **Repository Pattern**, an
 
 ---
 
-## 🚀 How to Run
+## 🖼️ Microservices Architecture Diagram
 
-> Prerequisites: Docker, .NET 8 SDK, SQL Server
+Below is a simplified architecture diagram of how the microservices interact with each other through the API Gateway:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ecommerce-microservices.git
-   cd ecommerce-microservices
+![Microservices Architecture](https://your-image-url.com/microservices-diagram.png)
+
+> Each service is independent, follows Onion Architecture, and communicates via the API Gateway.
+> Services handle their own database and logic separately, allowing scalability and flexibility.
+
+---
+
+
+
+
 
